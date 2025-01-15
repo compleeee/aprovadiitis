@@ -32,7 +32,7 @@ else if(c=0){
     risultato = (-b + sqrt(delta))/(2*a);
     printf("risultato1 = %.2lf and risultato = %.2lf", risultato, risultato1);
 }
-
+else
 return main();
 return 0;
 
